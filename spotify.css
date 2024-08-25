@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.top{
+    width:100%;
+    height:63px;
+    background-color:rgb(73, 69, 69);
+}
+.top img{
+    width:70px;
+    height:70px;
+    border-radius:30px;
+    padding:10px;
+}
+.top ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.top li{
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.right{
+    margin-top:-55px;
+    display:flex;
+    margin-right: 20px;
+    justify-content:flex-end;
+    text-align: right; 
+}
+.top button{
+    background-color: white;
+    width:60px;
+    height: 40px;
+    color: black;
+    border-radius:17px;
+    font-weight:bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bot{
+    width:1350px;
+    height: 550px;
+    background-color: rgb(102, 99, 99);
+    box-sizing:content-box;
+}
+.left{
+    width:300px;
+    height: 600px;
+    background-color: black;
+}
+.left ul{
+    list-style:none;
+    padding: 10px;
+}
+.left ul li{
+            padding: 10px;
+            font-size:20px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.left li a{
+    color: white;
+    border: 5px solid black;
+    box-sizing: border-box;
+
+}
+.left li a:hover{ 
+    color: blue;
+    text-decoration:dotted;
+}
+.left li img{
+    width:30px;
+    height:30px;
+}
+li .icon img{
+    width: 70px;
+    height:70px;
+}
+.vikram img{
+        width:250px;
+        height:180px;
+        
+}
+.kamal img{width:250px;
+    height:180px;}
+.vijay img{width:250px;
+    height:180px;}
+.whistle img{width:250px;
+    height:180px;}
+.ilu img{width:250px;
+    height:180px;}
+.aasa img{width:250px;
+    height:180px;}
+
+.t{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.over{
+    display: flex;
+}
+.all{
+    display: flex;
+}
+.i{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.c{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.w{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.a{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.k{
+    color: white;
+    padding: 5px;
+    margin-left: 40px;
+    font-family:cursive;
+}
+.song{
+    margin-top:-250px;
+    margin-left:460px;
+}
+.over img{
+    padding: 10px;
+}
+.all img{
+    padding: 10px;
+}
+.vikram:hover{
+        transform: scale(1);   
+}
+.over a img{
+    border-radius:30px;
+}
+.all a img{
+    border-radius: 30px;
+}
